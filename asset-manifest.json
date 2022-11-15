@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/examen-api/static/css/main.ab4f16af.css",
+    "main.js": "/examen-api/static/js/main.ba4e4734.js",
+    "index.html": "/examen-api/index.html",
+    "main.ab4f16af.css.map": "/examen-api/static/css/main.ab4f16af.css.map",
+    "main.ba4e4734.js.map": "/examen-api/static/js/main.ba4e4734.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab4f16af.css",
+    "static/js/main.ba4e4734.js"
+  ]
+}
