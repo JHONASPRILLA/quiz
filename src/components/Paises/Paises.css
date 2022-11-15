@@ -1,0 +1,18 @@
+table{
+  width: 100%;
+  display: contents;
+  justify-content: space-around;
+};
+
+.encabezado{
+  background-color: rgba(105, 159, 235, 0.881);;
+}
+
+th{
+    font-size: xx-large;
+}
+
+td{
+  font-size: large;
+}
+
